@@ -50,8 +50,8 @@ F1 = Frame(T1) # สร้าง Frame
 #F1.place(x=100,y=50) # วาง Frame
 F1.pack()
 
-F2 = Frame(T2)
-F2.pack()
+# F2 = Frame(T2)
+# F2.pack()
 
 # Dictionary
 days = {'Mon':'จันทร์',
